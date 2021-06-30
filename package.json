@@ -1,0 +1,25 @@
+{
+  "name": "webpack5-complete",
+  "version": "1.0.0",
+  "description": "webpack5 experiement",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinhlesdev/webpack5-complete.git"
+  },
+  "author": "Ryan Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinhlesdev/webpack5-complete/issues"
+  },
+  "homepage": "https://github.com/thinhlesdev/webpack5-complete#readme",
+  "devDependencies": {
+    "webpack": "^5.41.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
